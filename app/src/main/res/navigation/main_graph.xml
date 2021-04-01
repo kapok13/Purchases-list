@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/main_graph"
+    app:startDestination="@id/purchasesFragment">
+
+    <fragment
+        android:id="@+id/purchasesFragment"
+        android:name="com.vb.purchaseslist.ui.main.purchases.PurchasesFragment"
+        android:label="PurchasesFragment" />
+    <fragment
+        android:id="@+id/purchasedFragment"
+        android:name="com.vb.purchaseslist.ui.main.purchased.PurchasedFragment"
+        android:label="PurchasedFragment" />
+    <fragment
+        android:id="@+id/newPurchaseFragment"
+        android:name="com.vb.purchaseslist.ui.main.insert.NewPurchaseFragment"
+        android:label="NewPurchaseFragment" />
+</navigation>

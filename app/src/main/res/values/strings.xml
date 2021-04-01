@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Purchases list</string>
+    <string name="purchased">Purchased</string>
+    <string name="shoppingspic">purchasesPic</string>
+    <string name="purchase">purchase</string>
+    <string name="add">add</string>
+    <string name="enter_name_for_purchase">enter name for purchase</string>
+    <string name="image_picker">image picker</string>
+    <string name="addtopurchased">addtopurchased</string>
+    <string name="new_purchase">New purchase</string>
+    <string name="purchases">Purchases</string>
+    <string name="choose_from_camera">Choose from camera</string>
+    <string name="choose_from_gallery">Choose from gallery</string>
+    <string name="insertion_error_message">To add new purchase you must add picture or name for this</string>
+    <string name="successful_insertion">Insertion complete</string>
+    <string name="ok">OK</string>
+    <string name="no">NO</string>
+    <string name="delete_confirmation_message">Are you sure you want to mark as purchased all purchases? </string>
+    <string name="delete_completion_message">Purchases was successfully completed</string>
+    <string name="empty_recycler_message">Add some purchases first</string>
+</resources>
